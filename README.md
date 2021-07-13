@@ -1,5 +1,5 @@
 # Analysis-of-Air-Pollution
-Python Project
+*Python Project*
 
 Project Name :- Analysis of Air Pollution (From Year 2015 - 2020)
 
