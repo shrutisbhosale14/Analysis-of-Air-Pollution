@@ -19,17 +19,29 @@ CountPlot
 
 Workdone:- 
 By using head() and tail() I have got information about first five and last five rows of dataset
+
 By using info() I've found detail information about the dataset
+
 By using describe() it gives detail statistic of dataset
+
 By using value.counts() I"ve found information about the cities w'r't there pollutants and AQI, for counting number of Cities and also in Plotting
+
 By using shape() I,ve found total number or rows and columns in dataset
+
 By using isnull().sum() got missing data points from each columns
+
 By using dropna() I've removed missing values
+
 By using max() and min() I've found information about the highest and lowest  columns, where details of each city are given
+
 I've used unique() to found categories of AQI and neglect the copies
+
 I've created new dataframe called pollutants containg the major pollutants responsible for air pollution and created subplots for each of them
+
 By using Catplot I've display six categories of AQI
+
 Bargraph to show pollution w.r.t Cities
+
 By using Countplot the pollution w.r.t cities can be visualize easily
 
 
